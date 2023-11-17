@@ -57,6 +57,7 @@ The best genome found at the end is the array of weights below, describing as ru
 
 `[0. 1. 0. 0. 0. 1.]`
 
-Here is a gif describing the best individuals during the evolution of the population.
+Here is a gif heatmap describing the best individuals during the evolution of the population.
+On the y axis are descrived the heap selection rules, on the x axis are described the objects selection rules.
 
 ![Alt Text](rules_heatmap.gif)

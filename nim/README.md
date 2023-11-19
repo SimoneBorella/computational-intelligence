@@ -61,3 +61,12 @@ Here is a gif heatmap describing the best individuals during the evolution of th
 On the y axis are descrived the heap selection rules, on the x axis are described the objects selection rules.
 
 ![Alt Text](rules_heatmap.gif)
+
+
+# Peer review
+
+## Done
+- @GNNatan
+## Received
+- @GNNatan
+- @rasenqt

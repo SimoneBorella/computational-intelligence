@@ -66,7 +66,7 @@ On the y axis are descrived the heap selection rules, on the x axis are describe
 # Peer review
 
 ## Done
-- @GNNatan
+- [Giuseppe Nicola Natalizio](https://github.com/GNNatan/compint/issues/2)
 ## Received
-- @GNNatan
-- @rasenqt
+- [Giuseppe Nicola Natalizio](https://github.com/SimoneBorella/computational-intelligence/issues/1)
+- [Michelangelo Caretto](https://github.com/SimoneBorella/computational-intelligence/issues/2)

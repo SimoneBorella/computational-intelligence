@@ -56,3 +56,9 @@ Here are shown the plots of population growing for each case.
 
 ### Problem istance 10:
 ![Alt Text](size_10.png)
+
+
+# Peer review
+
+## Done
+- [Michelangelo Caretto](https://github.com/rasenqt/computational_intelligence23_24/issues/3)

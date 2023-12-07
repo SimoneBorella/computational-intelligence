@@ -62,3 +62,4 @@ Here are shown the plots of population growing for each case.
 
 ## Done
 - [Michelangelo Caretto](https://github.com/rasenqt/computational_intelligence23_24/issues/3)
+- [Florentin Udrea](https://github.com/florentin1304/computational-intelligence/issues/6)

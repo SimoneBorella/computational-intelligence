@@ -114,3 +114,4 @@ Tests are evaluated on 10_000 episodes.
 - [Udrea Florentin](https://github.com/florentin1304/computational-intelligence/issues/8)
 - [Michelangelo Caretto](https://github.com/rasenqt/computational_intelligence23_24/issues/8)
 ## Received
+- [Michelangelo Caretto](https://github.com/SimoneBorella/computational-intelligence/issues/7)
